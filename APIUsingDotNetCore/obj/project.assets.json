@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arvsingh\\source\\repos\\APIUsingDotNetCore\\APIUsingDotNetCore\\APIUsingDotNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\arvsingh\\Documents\\GitHub\\DotNetAPI\\APIUsingDotNetCore\\APIUsingDotNetCore.csproj",
       "projectName": "APIUsingDotNetCore",
-      "projectPath": "C:\\Users\\arvsingh\\source\\repos\\APIUsingDotNetCore\\APIUsingDotNetCore\\APIUsingDotNetCore.csproj",
+      "projectPath": "C:\\Users\\arvsingh\\Documents\\GitHub\\DotNetAPI\\APIUsingDotNetCore\\APIUsingDotNetCore.csproj",
       "packagesPath": "C:\\Users\\arvsingh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arvsingh\\source\\repos\\APIUsingDotNetCore\\APIUsingDotNetCore\\obj\\",
+      "outputPath": "C:\\Users\\arvsingh\\Documents\\GitHub\\DotNetAPI\\APIUsingDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arvsingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
